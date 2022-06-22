@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Fltea
+I'm Fltea.
+
 I come from China, and i'm learning English. But i have no idear. My life is blank.
 
 <!--
