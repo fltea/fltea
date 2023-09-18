@@ -2,7 +2,7 @@
 
 I'm Fltea.
 
-I come from China, and i'm learning English. But i have no idear. My life is blank.
+I come from China, and i'm learning English.
 
 <!--
 **fltea/fltea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
